@@ -1,0 +1,29 @@
+commit 699998f21361f4d59439e5cd1b2c29775d68ebc5
+Author: L-Asus <leninisaac444@gmail.com>
+Date:   Sun Jun 18 11:14:48 2023 -0500
+
+    Cambio de maestría
+
+commit 6a1c817eebd1bb0228c881f7a36f491b0748ec6f
+Author: L-Asus <leninisaac444@gmail.com>
+Date:   Sun Jun 18 11:14:11 2023 -0500
+
+    Cambio de vida
+
+commit d75416ed56b18d5d85c44ecab2bc5ba7ec01c894
+Author: L-Asus <leninisaac444@gmail.com>
+Date:   Sun Jun 18 11:13:20 2023 -0500
+
+    Arranco mi proyecto real con html y css
+
+commit e5402a7effa39eb92967d0bc0a3ecba34eb24af2
+Author: L-Asus <leninisaac444@gmail.com>
+Date:   Sat Jun 17 20:51:50 2023 -0500
+
+    Agregado primer cambio de la historia
+
+commit d10d9e1c42e7f78a3368bcd40592f4c5dda55245
+Author: L-Asus <leninisaac444@gmail.com>
+Date:   Sat Jun 17 20:50:24 2023 -0500
+
+    Este es el inicio de la historia
